@@ -1,0 +1,22 @@
+{
+	"file" : "index.html",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "1 0 1"
+			}
+		}
+	},
+	"preview" : "preview.gif",
+	"snapshotformat" : 0,
+	"snapshotoverlay" : "",
+	"title" : "wallpaper-engine-sakura-petals-wallpaper",
+	"type" : "web",
+	"version" : 0
+}
