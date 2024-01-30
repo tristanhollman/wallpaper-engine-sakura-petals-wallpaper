@@ -10,3 +10,5 @@ As I don't intent to continue with this and only wanted to try and make somethin
 The wallpaper files were also copied manually from the build output of the webapp, I did not bother with setting up a (semi) automated process for this 🤗.
 
 To see/download the wallpaper on steam (👉ﾟヮﾟ)👉 [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3046705007)
+
+![Preview](https://github.com/tristanhollman/wallpaper-engine-sakura-petals-wallpaper/assets/8666039/6ac87abc-153f-4196-82fd-d9ba54e7b079)
